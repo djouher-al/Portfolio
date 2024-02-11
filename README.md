@@ -11,7 +11,7 @@
 #### Description:
 Developed "The Great Guessing Game," a Python command-line application challenging users to guess a 4-letter word. Implemented features such as clear screen functionality, game modes (Play and Test), and scoring system, providing an engaging user experience.
 
-### Skills Showcased:
+#### Skills Showcased:
 - **Python Programming:** Demonstrated proficiency in Python programming, utilizing core language features for game logic implementation.
 - **Object-Oriented Programming (OOP):** Applied OOP principles by creating a `Game` class to manage game state and functionality.
 - **File Handling:** Used file handling techniques to manage external data files containing word databases.
