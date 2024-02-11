@@ -20,4 +20,4 @@ Developed "The Great Guessing Game," a Python command-line application challengi
 - **Error Handling:** Implemented error handling mechanisms to ensure application stability and reliability.
 - **Documentation:** Provided clear documentation and comments to enhance code readability and maintainability.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Pyhon Game](/assets/games.jpeg)
