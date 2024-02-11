@@ -78,6 +78,23 @@ Created a Clojure application for file compression and decompression, aiming to 
 - **Testing and Validation:** Conducted testing and validation to ensure the correctness and efficiency of compression and decompression algorithms, validating data integrity and compression ratios for different types of input files.
 
 
+### Academic Management System
+
+[GitHub Repository](https://github.com/djouher-al/Project5_Web_Programming)
+
+#### Description:
+Developed the Academic Management System, a comprehensive web platform designed to streamline the management of assessments, grades, and statistics for teachers and students. The system offers a range of features tailored to the specific needs of each user role, providing valuable insights and facilitating efficient academic management.
+
+#### Skills Showcased:**
+- **Web Development:** Implemented a web-based platform using HTML, CSS, and JavaScript to create an interactive and user-friendly interface for teachers and students.
+- **Backend Development:** Utilized backend technologies such as Node.js, Express.js, and MongoDB to handle data storage, retrieval, and manipulation, ensuring the robustness and scalability of the system.
+- **Database Management:** Designed and managed the database schema using MongoDB, allowing for efficient storage and retrieval of assessment details, student marks, and statistical metrics.
+- **User Authentication and Authorization:** Implemented user authentication and authorization mechanisms to secure access to sensitive data and ensure privacy and data integrity.
+- **Data Visualization:** Utilized data visualization libraries such as Chart.js or D3.js to present detailed reports and statistics in a visually appealing and informative manner, enhancing user understanding and decision-making.
+- **Collaborative Development:** Contributed to the project collaboratively, working with other team members to implement features, resolve issues, and enhance the overall functionality and usability of the Academic Management System.
+- **Documentation:** Provided clear documentation, comments, and/or README file to explain the project structure, implementation details, and how to use the system, facilitating understanding and usage for other developers and users.
+- **Testing and Quality Assurance:** Conducted testing and quality assurance measures to identify and resolve bugs, ensure functionality across different devices and browsers, and maintain the reliability and performance of the system.
+
 
 
 
