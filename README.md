@@ -60,6 +60,24 @@ Developed a Java application called "Ladder-Snake Game" based on the popular boa
 - **Documentation:** Provided documentation, comments, and/or README file to explain the project structure, implementation details, and how to run the game, facilitating understanding and usage for other developers and users.
 
 
+### Clojure File Compression and Decompression Application
+
+[GitHub Repository](https://github.com/djouher-al/Clojure_File-Compression-and-Decompression-Application)
+
+#### Description:
+Created a Clojure application for file compression and decompression, aiming to provide users with a simple yet effective solution for managing file storage and transmission efficiently. The project focused on implementing compression algorithms to reduce file sizes and decompression algorithms to restore files to their original state, enhancing data management and transfer processes.
+
+#### Skills Showcased:
+- **Clojure Programming:** Demonstrated proficiency in Clojure programming language, utilizing its functional programming features and immutable data structures to implement file compression and decompression algorithms.
+- **Algorithm Implementation:** Implemented compression algorithms such as Huffman coding or Run-Length Encoding (RLE) to reduce file sizes effectively while maintaining data integrity.
+- **Data Transformation:** Utilized functional programming paradigms to transform and manipulate data streams, optimizing file compression and decompression processes.
+- **Concurrency:** Leveraged Clojure's concurrency features to enhance performance and efficiency in processing large files, enabling parallel execution of compression and decompression tasks.
+- **File I/O Operations:** Implemented file input/output operations to read input files, perform compression or decompression, and write output files, ensuring seamless integration with the file system.
+- **Error Handling:** Implemented error handling mechanisms to gracefully handle exceptions and errors during file compression and decompression, ensuring robustness and reliability of the application.
+- **Documentation:** Provided clear documentation, comments, and/or README file to explain the usage, functionality, and implementation details of the application, facilitating understanding and usage for other developers and users.
+- **Testing and Validation:** Conducted testing and validation to ensure the correctness and efficiency of compression and decompression algorithms, validating data integrity and compression ratios for different types of input files.
+
+
 
 
 
