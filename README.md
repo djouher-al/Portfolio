@@ -6,6 +6,20 @@
 
 - DEC., Pure & Applied Science	| Dawson College  (_2017-2019_)	 		
 
+## Work Experience
+** Credit Analyst Intern @ Bank of Montreal (BMO) (_May- August 2022_)**
+• Proficient in identifying, analyzing, and interpreting trends or patterns in complex data sets to determine the level of risk involved for extending credit.
+• Used modeling and analytics to understand how business decisions impacted the credit risk during annual reviews.
+• Completed data cleaning and data validation of existing spreadsheets to promote a robust data management platform, resulting in accurate data analysis and entry.
+
+
+
+
+
+
+
+
+
 
 
 ## Projects 
