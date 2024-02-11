@@ -1,8 +1,5 @@
 # Djouher Alili 
 
-
-
-
 ## Projects 
 
 ### Python Guessing Game  
@@ -19,8 +16,6 @@ Developed "The Great Guessing Game," a Python command-line application challengi
 - **Command-Line Interface (CLI) Development:** Developed a CLI using Python's `os` module for screen clearing and argparse for command-line argument parsing.
 - **Error Handling:** Implemented error handling mechanisms to ensure application stability and reliability.
 - **Documentation:** Provided clear documentation and comments to enhance code readability and maintainability.
-
-
 
 
 
@@ -41,7 +36,7 @@ Developed "TableGen," a simple data generation application designed to create re
 - **Continuation Prompt:** Implemented a continuation prompt allowing users to return to the main menu for further actions or to exit the program gracefully.
 
 
-###  Ladder and Snake Game (JAVA)
+###  Ladder and Snake Game (Java)
 
 [GitHub Repository](https://github.com/djouher-al/Java_Ladder-Snake_game)
 
@@ -60,7 +55,7 @@ Developed a Java application called "Ladder-Snake Game" based on the popular boa
 - **Documentation:** Provided documentation, comments, and/or README file to explain the project structure, implementation details, and how to run the game, facilitating understanding and usage for other developers and users.
 
 
-### Clojure File Compression and Decompression Application
+### File Compression and Decompression Application (Clojure)
 
 [GitHub Repository](https://github.com/djouher-al/Clojure_File-Compression-and-Decompression-Application)
 
@@ -78,14 +73,14 @@ Created a Clojure application for file compression and decompression, aiming to 
 - **Testing and Validation:** Conducted testing and validation to ensure the correctness and efficiency of compression and decompression algorithms, validating data integrity and compression ratios for different types of input files.
 
 
-### Academic Management System
+### Academic Management System (CSS, HTML, JavaScript, PHP, SQL)
 
 [GitHub Repository](https://github.com/djouher-al/Project5_Web_Programming)
 
 #### Description:
 Developed the Academic Management System, a comprehensive web platform designed to streamline the management of assessments, grades, and statistics for teachers and students. The system offers a range of features tailored to the specific needs of each user role, providing valuable insights and facilitating efficient academic management.
 
-#### Skills Showcased:**
+#### Skills Showcased:
 - **Web Development:** Implemented a web-based platform using HTML, CSS, and JavaScript to create an interactive and user-friendly interface for teachers and students.
 - **Backend Development:** Utilized backend technologies such as Node.js, Express.js, and MongoDB to handle data storage, retrieval, and manipulation, ensuring the robustness and scalability of the system.
 - **Database Management:** Designed and managed the database schema using MongoDB, allowing for efficient storage and retrieval of assessment details, student marks, and statistical metrics.
