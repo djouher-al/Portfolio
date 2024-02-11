@@ -5,10 +5,10 @@
 
 ## Projects 
 
-###Python Guessing Game  
+### Python Guessing Game  
 [GitHub Repertory](https://www.mdpi.com/1424-8220/22/8/3048)
 
-####Description:
+#### Description:
 Developed "The Great Guessing Game," a Python command-line application challenging users to guess a 4-letter word. Implemented features such as clear screen functionality, game modes (Play and Test), and scoring system, providing an engaging user experience.
 
 ###Skills Showcased:
