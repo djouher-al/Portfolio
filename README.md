@@ -4,7 +4,7 @@
 
 - B.S., Double Major in Computer Science and Mathematics and Statistics | Concordia University (_2020- May 2024 (Anticipated)_)
 
-- DEC., Pure & Applied Science	| Dawson College  (_December 2019_)	 		
+- DEC., Pure & Applied Science	| Dawson College  (_2017-2019_)	 		
 
 
 
