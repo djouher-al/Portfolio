@@ -1,5 +1,16 @@
 # Djouher Alili 
 
+## Education
+
+- B.S., Double Major in Computer Science and Mathematics and Statistics | Concordia University (_May 2017_)
+
+- DEC., Pure & Applied Science	| Dawson College  (_December 2019_)	 		
+
+
+
+
+
+
 ## Projects 
 
 ### Python Guessing Game  
