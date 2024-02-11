@@ -41,9 +41,23 @@ Developed "TableGen," a simple data generation application designed to create re
 - **Continuation Prompt:** Implemented a continuation prompt allowing users to return to the main menu for further actions or to exit the program gracefully.
 
 
+###  Ladder and Snake Game (JAVA)
 
+[GitHub Repository](https://github.com/djouher-al/Java_Ladder-Snake_game)
 
+#### Description:
+Developed a Java application called "Ladder-Snake Game" based on the popular board game concept. The project aimed to recreate the classic gameplay experience in a digital format using Java programming language, providing an interactive and enjoyable gaming experience.
 
+#### Skills Showcased:
+- **Java Programming:** Demonstrated proficiency in Java programming language, implementing core game mechanics, user interface elements, and game logic.
+- **Object-Oriented Programming (OOP):** Applied OOP principles to design and structure the game, using classes and objects to represent game entities such as players, board cells, and game rules.
+- **Graphical User Interface (GUI) Development:** Developed a graphical user interface using Java Swing framework, providing an intuitive and visually appealing interface for players to interact with the game.
+- **Event Handling:** Implemented event handling mechanisms to capture user input, respond to player actions, and update the game state accordingly.
+- **Game Logic Implementation:** Implemented the logic for game rules, including movement of players, handling of ladder and snake interactions, and determining game outcomes.
+- **Data Structures:** Utilized appropriate data structures such as arrays, lists, or maps to represent game elements and manage game state efficiently.
+- **Code Organization:** Organized the codebase into modular components, separating concerns and promoting code reusability, readability, and maintainability.
+- **Testing and Debugging:** Conducted testing and debugging to identify and resolve issues, ensuring the stability and reliability of the game application.
+- **Documentation:** Provided documentation, comments, and/or README file to explain the project structure, implementation details, and how to run the game, facilitating understanding and usage for other developers and users.
 
 
 
