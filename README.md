@@ -30,7 +30,6 @@
 
 **Credit Analyst Intern @ Bank of Montreal (BMO) (_May- August 2022_)**
 
-Certainly! Here's an improved version of your role at Bank of Montreal, emphasizing your rapid acquisition of financial knowledge and exceeding expectations:
 
 Credit Analyst Intern @ Bank of Montreal (BMO) (May-August 2022)
 
