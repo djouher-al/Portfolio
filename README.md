@@ -30,10 +30,15 @@
 
 **Credit Analyst Intern @ Bank of Montreal (BMO) (_May- August 2022_)**
 
-- Proficient in identifying, analyzing, and interpreting trends or patterns in complex data sets to determine the level of risk involved for extending credit.
-- Used modeling and analytics to understand how business decisions impacted the credit risk during annual reviews.
-- Completed data cleaning and data validation of existing spreadsheets to promote a robust data management platform, resulting in accurate data analysis and entry.
+Certainly! Here's an improved version of your role at Bank of Montreal, emphasizing your rapid acquisition of financial knowledge and exceeding expectations:
 
+Credit Analyst Intern @ Bank of Montreal (BMO) (May-August 2022)
+
+- Proficiently identified, analyzed, and interpreted trends or patterns in complex data sets to assess credit risk and determine suitability for extending credit, demonstrating a quick grasp of financial concepts and methodologies.
+- Utilized advanced modeling and analytics techniques to assess the impact of business decisions on credit risk during annual reviews, providing valuable insights for strategic decision-making processes.
+- Played a key role in enhancing data integrity and accuracy by performing data cleaning and validation of existing spreadsheets, contributing to the development of a robust data management platform that facilitated accurate data analysis and entry.
+- Successfully adapted to the fast-paced environment of the banking industry, demonstrating adaptability, initiative, and a strong work ethic, resulting in positive feedback from supervisors and peers alike.
+  
 ## Projects 
 
 ### Python Guessing Game  
