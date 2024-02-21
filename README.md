@@ -49,8 +49,11 @@ _Montreal QC, (May- August 2023)_
 _Montreal QC, (May-August 2022)_
 
 - Proficiently identified, analyzed, and interpreted trends or patterns in complex data sets to assess credit risk and determine suitability for extending credit, demonstrating a quick grasp of financial concepts and methodologies.
+  
 - Utilized advanced modeling and analytics techniques to assess the impact of business decisions on credit risk during annual reviews, providing valuable insights for strategic decision-making processes.
+  
 - Played a key role in enhancing data integrity and accuracy by performing data cleaning and validation of existing spreadsheets, contributing to the development of a robust data management platform that facilitated accurate data analysis and entry.
+  
 - Successfully adapted to the fast-paced environment of the banking industry, demonstrating adaptability, initiative, and a strong work ethic, resulting in positive feedback from supervisors and peers alike.
   
 ## Projects 
