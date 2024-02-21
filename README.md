@@ -2,9 +2,9 @@
 
 ## Education
 
-- B.S., Double Major in Computer Science and Mathematics and Statistics | Concordia University (_2020-2024_ (Anticipated))
+- B.Sc, Double Major in Computer Science and Mathematics and Statistics | Concordia University (_2020-2024_ (Anticipated))
 
-- DEC., Pure & Applied Science	| Dawson College  (_2017-2019_)	 		
+- DEC , Pure & Applied Science	| Dawson College  (_2017-2019_)	 		
 
 ## Technical Skills
 
@@ -24,8 +24,6 @@
 
 [View website](https://www.saharaflavours.ca/?locale=fr)
 
-- Provided comprehensive website customization services for SaharaFlavours, an emerging local business, by leveraging Squarespace's platform to tailor their online presence according to brand identity and market needs.
-
 - Successfully launched SaharaFlavours' website, showcasing their products and services effectively, thereby enhancing brand visibility and customer engagement within the target market.
 
 - Demonstrated proficiency in web development and design by implementing custom CSS injections to enhance the functionality and aesthetics of specific features on the Squarespace website, ensuring a seamless and user-friendly experience for visitors.
@@ -33,8 +31,6 @@
 - Currently spearheading the transition of SaharaFlavours' website from Squarespace to WordPress, leveraging advanced functionalities and customization options to meet evolving business requirements and scale their online presence effectively.
 
 - Collaborated closely with stakeholders to understand business objectives, gather requirements, and provide tailored solutions, fostering a strong client relationship and delivering results that align with SaharaFlavours' strategic goals.
-
-- Received positive feedback from SaharaFlavours' management for the successful execution of the website customization project, demonstrating professionalism, technical expertise, and a commitment to delivering exceptional outcomes.
   
 **Software Programmer Intern @ Saint-Gobain (BP Canada)- (_May- August 2023_)**
 
