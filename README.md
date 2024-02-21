@@ -4,7 +4,7 @@
 
 - B.Sc, Double Major in Computer Science and Mathematics and Statistics | Concordia University (_2020-2024_ (Anticipated))
 
-- DEC , Pure & Applied Science	| Dawson College  (_2017-2019_)	 		
+- DEC, Pure & Applied Science	| Dawson College  (_2017-2019_)	 		
 
 ## Technical Skills
 
@@ -20,7 +20,8 @@
 ## Work Experience
 
 
-**Web Developper Consultant @ SaharaFlavours - Contract Part-time  (_Dec 2023- Present_)**
+ ### **Web Developper Consultant @ SaharaFlavours - Contract Part-time** 
+_Ottawa ON, (Dec 2023-Present)_ 
 
 [View website](https://www.saharaflavours.ca/?locale=fr)
 
@@ -32,7 +33,8 @@
 
 - Collaborated closely with stakeholders to understand business objectives, gather requirements, and provide tailored solutions, fostering a strong client relationship and delivering results that align with SaharaFlavours' strategic goals.
   
-**Software Programmer Intern @ Saint-Gobain (BP Canada)- (_May- August 2023_)**
+### **Software Programmer Intern @ Saint-Gobain (BP Canada)**
+_Montreal QC, (May- August 2023)_
 
 - Spearheaded the development of both front-end and back-end components for the company's new intranet website, enhancing internal communication and workflow efficiency.
   
@@ -42,7 +44,9 @@
 
 - Collaborated effectively with cross-functional teams to gather requirements, design solutions, and implement enhancements, fostering a culture of innovation and continuous improvement within the organization.
 
-**Credit Analyst Intern @ Bank of Montreal (BMO)- (_May- August 2022_)**
+### **Credit Analyst Intern @ Bank of Montreal (BMO)**
+
+_Montreal QC, (May-August 2022)_
 
 - Proficiently identified, analyzed, and interpreted trends or patterns in complex data sets to assess credit risk and determine suitability for extending credit, demonstrating a quick grasp of financial concepts and methodologies.
 - Utilized advanced modeling and analytics techniques to assess the impact of business decisions on credit risk during annual reviews, providing valuable insights for strategic decision-making processes.
