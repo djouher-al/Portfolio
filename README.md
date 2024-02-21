@@ -2,23 +2,41 @@
 
 ## Education
 
-- B.S., Double Major in Computer Science and Mathematics and Statistics | Concordia University (_2020-2024_(Anticipated))
+- B.S., Double Major in Computer Science and Mathematics and Statistics | Concordia University (_2020-2024_ (Anticipated))
 
 - DEC., Pure & Applied Science	| Dawson College  (_2017-2019_)	 		
 
 ## Technical Skills
 
 **Programming Languages:**
-- Proficient in Java, Python, C, Clojure, JavaScript, HTML, CSS, and SQL for web development, backend programming, and database management.
-- Experienced in R, MAPLE, and Mathematica for mathematical modeling, data analysis, and statistical computations.
+- Skilled in Java, Python, C, Clojure, JavaScript, HTML, CSS, and SQL for web development, backend programming, and database management.
+- Proficient  in R, MAPLE, and Mathematica for mathematical modeling, data analysis, and statistical computations.
 
 **Development Tools and Platforms:**
-- Proficient in utilizing GitHub for version control and collaborative development.
-- Skilled in IDEs such as Eclipse and Visual Studio Code for code editing and project management.
+- Mastered GitHub for version control and collaborative development.
+- Well-versed  in IDEs such as Eclipse and Visual Studio Code for code editing and project management.
 - Experienced in using Jira for agile project management and issue tracking.
 
 ## Work Experience
-**Software Programmer @ Saint-Gobain (BP Canada) (_May- August 2023_)**
+
+
+**Web Developper Consultant @ SaharaFlavours - Part-time Contract (_Dec 2024- Present_)**
+
+[View website](https://www.saharaflavours.ca/?locale=fr)
+
+- Provided comprehensive website customization services for SaharaFlavours, an emerging local business, by leveraging Squarespace's platform to tailor their online presence according to brand identity and market needs.
+
+- Successfully launched SaharaFlavours' website, showcasing their products and services effectively, thereby enhancing brand visibility and customer engagement within the target market.
+
+- Demonstrated proficiency in web development and design by implementing custom CSS injections to enhance the functionality and aesthetics of specific features on the Squarespace website, ensuring a seamless and user-friendly experience for visitors.
+
+- Currently spearheading the transition of SaharaFlavours' website from Squarespace to WordPress, leveraging advanced functionalities and customization options to meet evolving business requirements and scale their online presence effectively.
+
+- Collaborated closely with stakeholders to understand business objectives, gather requirements, and provide tailored solutions, fostering a strong client relationship and delivering results that align with SaharaFlavours' strategic goals.
+
+- Received positive feedback from SaharaFlavours' management for the successful execution of the website customization project, demonstrating professionalism, technical expertise, and a commitment to delivering exceptional outcomes.
+  
+**Software Programmer Intern @ Saint-Gobain (BP Canada)- (_May- August 2023_)**
 
 - Spearheaded the development of both front-end and back-end components for the company's new intranet website, enhancing internal communication and workflow efficiency.
   
@@ -28,7 +46,7 @@
 
 - Collaborated effectively with cross-functional teams to gather requirements, design solutions, and implement enhancements, fostering a culture of innovation and continuous improvement within the organization.
 
-**Credit Analyst Intern @ Bank of Montreal (BMO) (_May- August 2022_)**
+**Credit Analyst Intern @ Bank of Montreal (BMO)- (_May- August 2022_)**
 
 - Proficiently identified, analyzed, and interpreted trends or patterns in complex data sets to assess credit risk and determine suitability for extending credit, demonstrating a quick grasp of financial concepts and methodologies.
 - Utilized advanced modeling and analytics techniques to assess the impact of business decisions on credit risk during annual reviews, providing valuable insights for strategic decision-making processes.
