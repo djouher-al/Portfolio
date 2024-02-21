@@ -45,7 +45,6 @@ _Montreal QC, (May- August 2023)_
 - Collaborated effectively with cross-functional teams to gather requirements, design solutions, and implement enhancements, fostering a culture of innovation and continuous improvement within the organization.
 
 ### **Credit Analyst Intern @ Bank of Montreal (BMO)**
-
 _Montreal QC, (May-August 2022)_
 
 - Proficiently identified, analyzed, and interpreted trends or patterns in complex data sets to assess credit risk and determine suitability for extending credit, demonstrating a quick grasp of financial concepts and methodologies.
