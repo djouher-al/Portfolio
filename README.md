@@ -20,7 +20,7 @@
 ## Work Experience
 
 
-**Web Developper Consultant @ SaharaFlavours - Part-time Contract (_Dec 2024- Present_)**
+**Web Developper Consultant @ SaharaFlavours - Part-time Contract (_Dec 2023- Present_)**
 
 [View website](https://www.saharaflavours.ca/?locale=fr)
 
