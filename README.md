@@ -2,11 +2,32 @@
 
 ## Education
 
-- B.S., Double Major in Computer Science and Mathematics and Statistics | Concordia University (_2020- May 2024 (Anticipated)_)
+- B.S., Double Major in Computer Science and Mathematics and Statistics | Concordia University (_2020-2024_(Anticipated))
 
 - DEC., Pure & Applied Science	| Dawson College  (_2017-2019_)	 		
 
+## Technical Skills
+
+**Programming Languages:**
+- Proficient in Java, Python, C, Clojure, JavaScript, HTML, CSS, and SQL for web development, backend programming, and database management.
+- Experienced in R, MAPLE, and Mathematica for mathematical modeling, data analysis, and statistical computations.
+
+**Development Tools and Platforms:**
+- Proficient in utilizing GitHub for version control and collaborative development.
+- Skilled in IDEs such as Eclipse and Visual Studio Code for code editing and project management.
+- Experienced in using Jira for agile project management and issue tracking.
+
 ## Work Experience
+**Software Programmer @ Saint-Gobain (BP Canada) (_May- August 2023_)**
+
+- Spearheaded the development of both front-end and back-end components for the company's new intranet website, enhancing internal communication and workflow efficiency.
+  
+- Played a pivotal role in integrating a new module into the Ross ERP system, optimizing resource utilization and reducing operational complexities
+
+- Demonstrated proficiency in database management by meticulously cleaning and optimizing SQL tables, ensuring data accuracy and facilitating seamless interactions for both new and existing clients.
+
+- Collaborated effectively with cross-functional teams to gather requirements, design solutions, and implement enhancements, fostering a culture of innovation and continuous improvement within the organization.
+
 **Credit Analyst Intern @ Bank of Montreal (BMO) (_May- August 2022_)**
 
 - Proficient in identifying, analyzing, and interpreting trends or patterns in complex data sets to determine the level of risk involved for extending credit.
