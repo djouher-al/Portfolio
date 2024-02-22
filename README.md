@@ -19,6 +19,7 @@
 
 ## Work Experience
 
+
  **Web Developper Consultant @ SaharaFlavours - Contract Part-time** 
 _Ottawa ON, (Dec 2023-Present)_ 
 
