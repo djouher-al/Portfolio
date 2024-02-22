@@ -1,8 +1,8 @@
 ## Education
 
-- **B.Sc, Double Major in Computer Science and Mathematics and Statistics- Concordia University (_2020-2024_ (Anticipated))**
+-  **B.Sc, Double Major in Computer Science and Mathematics and Statistics- Concordia University (_2020-2024_ (Anticipated))**
 
-- **DEC, Pure & Applied Science	-  Dawson College  (_2017-2019_)**	 		
+-  **DEC, Pure & Applied Science	-  Dawson College  (_2017-2019_)**	 		
 
 ## Technical Skills
 
@@ -32,6 +32,7 @@ _Ottawa ON, (Dec 2023-Present)_
 - Collaborated closely with stakeholders to understand business objectives, gather requirements, and provide tailored solutions, fostering a strong client relationship and delivering results that align with SaharaFlavours' strategic goals.
 
  **Software Programmer Intern @ Saint-Gobain (BP Canada)**
+
  
 _Montreal QC, (May- August 2023)_
 
