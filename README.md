@@ -136,6 +136,9 @@ Created a Clojure application for file compression and decompression, aiming to 
 
 [GitHub Repository](https://github.com/djouher-al/Project5_Web_Programming)
 
+![Failed to load](assets/img/Website.png)
+
+
 #### Description:
 Developed the Academic Management System, a comprehensive web platform designed to streamline the management of assessments, grades, and statistics for teachers and students. The system offers a range of features tailored to the specific needs of each user role, providing valuable insights and facilitating efficient academic management.
 
