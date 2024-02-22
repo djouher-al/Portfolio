@@ -83,6 +83,7 @@ Developed "The Great Guessing Game," a Python command-line application challengi
 
 ![Failed to load](assets/img/CSV-Article-header.webp)
 
+
 #### Description:
 Developed "TableGen," a simple data generation application designed to create realistic test sets for databases or other data management systems. The application provides an intuitive interface for users to build custom tables with specified columns, row counts, and output file names.
 
@@ -100,6 +101,8 @@ Developed "TableGen," a simple data generation application designed to create re
 
 [GitHub Repository](https://github.com/djouher-al/Java_Ladder-Snake_game)
 
+![Failed to load](assets/img/ladder.jpeg)
+
 #### Description:
 Developed a Java application called "Ladder-Snake Game" based on the popular board game concept. The project aimed to recreate the classic gameplay experience in a digital format using Java programming language, providing an interactive and enjoyable gaming experience.
 
@@ -116,6 +119,8 @@ Developed a Java application called "Ladder-Snake Game" based on the popular boa
 ### File Compression and Decompression Application
 
 [GitHub Repository](https://github.com/djouher-al/Clojure_File-Compression-and-Decompression-Application)
+
+![Failed to load](assets/img/ladder.jpeg)
 
 #### Description:
 Created a Clojure application for file compression and decompression, aiming to provide users with a simple yet effective solution for managing file storage and transmission efficiently. The project focused on implementing compression algorithms to reduce file sizes and decompression algorithms to restore files to their original state, enhancing data management and transfer processes.
