@@ -60,6 +60,9 @@ _Montreal QC, (May-August 2022)_
 ### Python Guessing Game  
 [GitHub Repository](https://github.com/djouher-al/Python_WordGame)
 
+
+![Failed to load](assets/img/games.jpeg)
+
 #### Description:
 Developed "The Great Guessing Game," a Python command-line application challenging users to guess a 4-letter word. Implemented features such as clear screen functionality, game modes (Play and Test), and scoring system, providing an engaging user experience.
 
