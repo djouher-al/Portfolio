@@ -2,9 +2,9 @@
 
 ## Education
 
-- B.Sc, Double Major in Computer Science and Mathematics and Statistics | Concordia University (_2020-2024_ (Anticipated))
+- B.Sc, Double Major in Computer Science and Mathematics and Statistics- **Concordia University** (_2020-2024_ (Anticipated))
 
-- DEC, Pure & Applied Science	| Dawson College  (_2017-2019_)	 		
+- DEC, Pure & Applied Science	-  **Dawson College**  (_2017-2019_)	 		
 
 ## Technical Skills
 
@@ -19,8 +19,7 @@
 
 ## Work Experience
 
-
- ### **Web Developper Consultant @ SaharaFlavours - Contract Part-time** 
+ **Web Developper Consultant @ SaharaFlavours - Contract Part-time** 
 _Ottawa ON, (Dec 2023-Present)_ 
 
 [View website](https://www.saharaflavours.ca/?locale=fr)
@@ -32,8 +31,8 @@ _Ottawa ON, (Dec 2023-Present)_
 - Currently spearheading the transition of SaharaFlavours' website from Squarespace to WordPress, leveraging advanced functionalities and customization options to meet evolving business requirements and scale their online presence effectively.
 
 - Collaborated closely with stakeholders to understand business objectives, gather requirements, and provide tailored solutions, fostering a strong client relationship and delivering results that align with SaharaFlavours' strategic goals.
-  
-### **Software Programmer Intern @ Saint-Gobain (BP Canada)**
+
+ **Software Programmer Intern @ Saint-Gobain (BP Canada)**
 _Montreal QC, (May- August 2023)_
 
 - Spearheaded the development of both front-end and back-end components for the company's new intranet website, enhancing internal communication and workflow efficiency.
@@ -44,7 +43,7 @@ _Montreal QC, (May- August 2023)_
 
 - Collaborated effectively with cross-functional teams to gather requirements, design solutions, and implement enhancements, fostering a culture of innovation and continuous improvement within the organization.
 
-### **Credit Analyst Intern @ Bank of Montreal (BMO)**
+ **Credit Analyst Intern @ Bank of Montreal (BMO)**
 _Montreal QC, (May-August 2022)_
 
 - Proficiently identified, analyzed, and interpreted trends or patterns in complex data sets to assess credit risk and determine suitability for extending credit, demonstrating a quick grasp of financial concepts and methodologies.
