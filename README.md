@@ -63,6 +63,7 @@ _Montreal QC, (May-August 2022)_
 
 ![Failed to load](assets/img/games.jpeg)
 
+
 #### Description:
 Developed "The Great Guessing Game," a Python command-line application challenging users to guess a 4-letter word. Implemented features such as clear screen functionality, game modes (Play and Test), and scoring system, providing an engaging user experience.
 
@@ -79,6 +80,8 @@ Developed "The Great Guessing Game," a Python command-line application challengi
 
 ###  Simple Data Generation Application 
 [GitHub Repository](https://github.com/djouher-al/C_Data-Generation-App)
+
+![Failed to load](assets/img/CSV-Article-header.webp)
 
 #### Description:
 Developed "TableGen," a simple data generation application designed to create realistic test sets for databases or other data management systems. The application provides an intuitive interface for users to build custom tables with specified columns, row counts, and output file names.
