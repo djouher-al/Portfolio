@@ -2,9 +2,9 @@
 
 ## Education
 
-- B.Sc, Double Major in Computer Science and Mathematics and Statistics- **Concordia University** (_2020-2024_ (Anticipated))
+- B.Sc, Double Major in Computer Science and Mathematics and Statistics- Concordia University (_2020-2024_ (Anticipated))
 
-- DEC, Pure & Applied Science	-  **Dawson College**  (_2017-2019_)	 		
+- DEC, Pure & Applied Science	-  Dawson College  (_2017-2019_)	 		
 
 ## Technical Skills
 
@@ -120,7 +120,7 @@ Developed a Java application called "Ladder-Snake Game" based on the popular boa
 
 [GitHub Repository](https://github.com/djouher-al/Clojure_File-Compression-and-Decompression-Application)
 
-![Failed to load](assets/img/ladder.jpeg)
+![Failed to load](assets/img/zip.webp)
 
 #### Description:
 Created a Clojure application for file compression and decompression, aiming to provide users with a simple yet effective solution for managing file storage and transmission efficiently. The project focused on implementing compression algorithms to reduce file sizes and decompression algorithms to restore files to their original state, enhancing data management and transfer processes.
