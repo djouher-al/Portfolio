@@ -20,8 +20,7 @@
 ## Work Experience
 
 
- **Web Developper Consultant @ SaharaFlavours - Contract Part-time** 
-_Ottawa ON, (Dec 2023-Present)_ 
+ **Web Developper Consultant @ SaharaFlavours - Contract Part-time** _Ottawa ON, (Dec 2023-Present)_ 
 
 [View website](https://www.saharaflavours.ca/?locale=fr)
 
@@ -33,8 +32,7 @@ _Ottawa ON, (Dec 2023-Present)_
 
 - Collaborated closely with stakeholders to understand business objectives, gather requirements, and provide tailored solutions, fostering a strong client relationship and delivering results that align with SaharaFlavours' strategic goals.
 
- **Software Programmer Intern @ Saint-Gobain (BP Canada)**
-_Montreal QC, (May- August 2023)_
+ **Software Programmer Intern @ Saint-Gobain (BP Canada)** - _Montreal QC, (May- August 2023)_
 
 - Spearheaded the development of both front-end and back-end components for the company's new intranet website, enhancing internal communication and workflow efficiency.
   
@@ -44,8 +42,7 @@ _Montreal QC, (May- August 2023)_
 
 - Collaborated effectively with cross-functional teams to gather requirements, design solutions, and implement enhancements, fostering a culture of innovation and continuous improvement within the organization.
 
- **Credit Analyst Intern @ Bank of Montreal (BMO)**
-_Montreal QC, (May-August 2022)_
+ **Credit Analyst Intern @ Bank of Montreal (BMO)** - _Montreal QC, (May-August 2022)_
 
 - Proficiently identified, analyzed, and interpreted trends or patterns in complex data sets to assess credit risk and determine suitability for extending credit, demonstrating a quick grasp of financial concepts and methodologies.
   
