@@ -1,8 +1,8 @@
 ## Education
 
-- B.Sc, Double Major in Computer Science and Mathematics and Statistics- Concordia University (_2020-2024_ (Anticipated))
+- **B.Sc, Double Major in Computer Science and Mathematics and Statistics- Concordia University (_2020-2024_ (Anticipated))**
 
-- DEC, Pure & Applied Science	-  Dawson College  (_2017-2019_)	 		
+- **DEC, Pure & Applied Science	-  Dawson College  (_2017-2019_)**	 		
 
 ## Technical Skills
 
