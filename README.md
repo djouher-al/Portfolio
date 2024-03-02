@@ -20,17 +20,19 @@
 ## Work Experience
 
 
- **Web Developper Consultant @ SaharaFlavours - Contract Part-time** - _Ottawa ON, (Dec 2023-Present)_ 
+ **Web Developer Consultant @ SaharaFlavours - Contract Part-time** - _Ottawa ON, (Dec 2023-Present)_ 
 
 [View website](https://www.saharaflavours.ca/?locale=fr)
 
-- Successfully launched SaharaFlavours' website, showcasing their products and services effectively, thereby enhancing brand visibility and customer engagement within the target market.
-
+- Successfully launched a website for SaharaFlavours, showcasing their products and services effectively, thereby enhancing brand visibility and customer engagement within the target market.
+  
 - Demonstrated proficiency in web development and design by implementing custom CSS injections to enhance the functionality and aesthetics of specific features on the Squarespace website, ensuring a seamless and user-friendly experience for visitors.
+  
+- Currently spearheading the transition of the website from Squarespace to WordPress, leveraging advanced functionalities and customization options to meet evolving business requirements and scale their online presence effectively.
+  
+- Collaborated closely with stakeholders to understand business objectives, gather requirements, and provide tailored solutions, fostering a strong client relationship and delivering results that align with the company's strategic goals.
 
-- Currently spearheading the transition of SaharaFlavours' website from Squarespace to WordPress, leveraging advanced functionalities and customization options to meet evolving business requirements and scale their online presence effectively.
 
-- Collaborated closely with stakeholders to understand business objectives, gather requirements, and provide tailored solutions, fostering a strong client relationship and delivering results that align with SaharaFlavours' strategic goals.
 
  **Software Programmer Intern @ Saint-Gobain (BP Canada)** - _Montreal QC, (May- August 2023)_
 
