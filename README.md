@@ -2,57 +2,38 @@
 
 ## Education
 
--  **B.Sc, Double Major in Computer Science and Mathematics and Statistics- Concordia University (_2020- May 2024_)**
+-  **B.Sc, in Computer Science and Mathematics and Statistics- Concordia University (_2020- May 2024_)**
 
 -  **DEC, Pure & Applied Science	-  Dawson College  (_2017-2019_)**	 		
 
-## Technical Skills
-
-**Programming Languages:**
-- Skilled in Java, Python, C, Clojure, JavaScript, HTML, CSS, and SQL for web development, backend programming, and database management.
-- Proficient  in R, MAPLE, and Mathematica for mathematical modeling, data analysis, and statistical computations.
-
-**Development Tools and Platforms:**
-- Mastered GitHub for version control and collaborative development.
-- Well-versed  in IDEs such as Eclipse and Visual Studio Code for code editing and project management.
-- Experienced in using Jira for agile project management and issue tracking.
+##  Skills
+- **Coding Languages**: Java, Python, C, Clojure, JavaScript, HTML/CSS, PHP, SQL, R, MAPLE, XML, Mathematica
+- **Developer Tools & Platforms**: Eclipse, Visual Studio Code, GitHub, Git, Jira, Docker, Linux, Power BI, IntelliJ,
+  ROSS ERP, Microsoft Office (Excel, PowerPoint, etc.)
+- **Spoken Languages**: English - Native, French - Native, Berber languages - Native
 
 ## Work Experience
 
-
- **Web Developer Consultant @ SaharaFlavours - Contract Part-time** - _Ottawa ON, (Dec 2023-Present)_ 
-
-[View website](https://www.saharaflavours.ca/?locale=fr)
-
-- Successfully launched a website for SaharaFlavours, showcasing their products and services effectively, thereby enhancing brand visibility and customer engagement within the target market.
-  
-- Demonstrated proficiency in web development and design by implementing custom CSS injections to enhance the functionality and aesthetics of specific features on the Squarespace website, ensuring a seamless and user-friendly experience for visitors.
-  
-- Currently spearheading the transition of the website from Squarespace to WordPress, leveraging advanced functionalities and customization options to meet evolving business requirements and scale their online presence effectively.
-  
-- Collaborated closely with stakeholders to understand business objectives, gather requirements, and provide tailored solutions, fostering a strong client relationship and delivering results that align with the company's strategic goals.
-
-
-
  **Software Programmer Intern @ Saint-Gobain (BP Canada)** - _Montreal QC, (May- August 2023)_
-
-- Spearheaded the development of both front-end and back-end components for the company's new intranet website, enhancing internal communication and workflow efficiency.
-  
-- Played a pivotal role in integrating a new module into the Ross ERP system, optimizing resource utilization and reducing operational complexities
-
-- Demonstrated proficiency in database management by meticulously cleaning and optimizing SQL tables, ensuring data accuracy and facilitating seamless interactions for both new and existing clients.
-
-- Collaborated effectively with cross-functional teams to gather requirements, design solutions, and implement enhancements, fostering a culture of innovation and continuous improvement within the organization.
+- Developed the company’s new intranet website, seamlessly integrating front-end (HTML and CSS) and back-end
+components (PHP, SQL and JavaScript), enabling centralized management of files and resources across
+departments.
+- Played a pivotal role in integrating a new module into the Ross ERP system, optimizing resource utilization and
+reducing operational complexities
+- Demonstrated proficiency in database management by meticulously cleaning and optimizing SQL tables, ensuring
+data accuracy and facilitating seamless interactions for both new and existing clients.
+- Collaborated effectively with cross-functional teams in an Agile environment to gather requirements, design
+solutions, and implement enhancements, fostering a culture of innovation and continuous improvement within the
+organization
 
  **Credit Analyst Intern @ Bank of Montreal (BMO)** - _Montreal QC, (May-August 2022)_
 
-- Proficiently identified, analyzed, and interpreted trends or patterns in complex data sets to assess credit risk and determine suitability for extending credit, demonstrating a quick grasp of financial concepts and methodologies.
-  
-- Utilized advanced modeling and analytics techniques to assess the impact of business decisions on credit risk during annual reviews, providing valuable insights for strategic decision-making processes.
-  
-- Played a key role in enhancing data integrity and accuracy by performing data cleaning and validation of existing spreadsheets, contributing to the development of a robust data management platform that facilitated accurate data analysis and entry.
-  
-- Successfully adapted to the fast-paced environment of the banking industry, demonstrating adaptability, initiative, and a strong work ethic, resulting in positive feedback from supervisors and peers alike.
+- Proficiently identified, analyzed, and interpreted trends or patterns in data sets to assess credit risk and determine
+suitability for extending credit, demonstrating a quick grasp of financial concepts and methodologies.
+- Utilized modeling and analytics techniques to assess the impact of business decisions on credit risk during annual
+reviews, providing valuable insights for strategic decision-making processes.
+- Adapted successfully to the fast-paced environment of the banking industry, demonstrating adaptability, initiative,
+and a strong work ethic, resulting in positive feedback from supervisors and peers alike
   
 ## Projects 
 
