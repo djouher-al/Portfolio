@@ -39,7 +39,7 @@ and a strong work ethic, resulting in positive feedback from supervisors and pee
 
 ### SaharaFlavours (Freelance Web development)
 
-![Failed to load]()
+![Failed to load](assets/img/IMG_1867.png)
 
 - Launched a website for SaharaFlavours, showcasing their products and services effectively, thereby enhancing brand
 visibility and customer engagement within the target market.
@@ -47,9 +47,6 @@ visibility and customer engagement within the target market.
 functionality and aesthetics of specific features, ensuring a seamless and user-friendly experience for customers.
 - Collaborated closely with stakeholders to understand business objectives, gather requirements, and provide tailored
 solutions, fostering a strong client relationship and delivering results that align with the company’s strategic goals
-
-
-
 
 
 ### Python Guessing Game  
