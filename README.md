@@ -37,6 +37,21 @@ and a strong work ethic, resulting in positive feedback from supervisors and pee
   
 ## Projects 
 
+### SaharaFlavours (Freelance Web development)
+
+![Failed to load]()
+
+- Launched a website for SaharaFlavours, showcasing their products and services effectively, thereby enhancing brand
+visibility and customer engagement within the target market.
+-  Demonstrated proficiency in web development and design by implementing custom CSS injections to enhance the
+functionality and aesthetics of specific features, ensuring a seamless and user-friendly experience for customers.
+- Collaborated closely with stakeholders to understand business objectives, gather requirements, and provide tailored
+solutions, fostering a strong client relationship and delivering results that align with the company’s strategic goals
+
+
+
+
+
 ### Python Guessing Game  
 [GitHub Repository](https://github.com/djouher-al/Python_WordGame)
 
