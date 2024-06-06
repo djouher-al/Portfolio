@@ -17,14 +17,19 @@
  **Software Programmer Intern @ Saint-Gobain (BP Canada)** - _Montreal QC, (May- August 2023)_
  
 • Developed a new intranet website, using HTML, CSS, PHP, SQL, and JavaScript, to enhance resource accessibility and communication efficiency across more than five departments.
+
 • Replaced the marketing department’s website with an integrated Ross ERP module, reducing procurement processing time by 30% and operational overhead by 40%.
+
 • Utilized SQL queries for data refinement, resulting in a higher accuracy for locating product retailers within Canadian regions.
+
 • Implemented Agile methodology using Jira for intranet development, achieving 95% satisfaction post-launch.
 
  **Credit Analyst Intern @ Bank of Montreal (BMO)** - _Montreal QC, (May-August 2022)_
 
 • Analyzed financial statements for 20+ CRM companies to assess credit risk and determine suitability for credit extension.
+
 • Contributed to a 36% reduction in annual reviews backlog by assisting with data entry, report generation, and financial analysis, thereby enhancing team performance.
+
 • Adapted successfully to the fast-paced environment of the banking industry, demonstrating adaptability, initiative, and a strong work ethic, resulting in positive feedback from supervisors and peers alike.
   
 ## Projects 
@@ -34,7 +39,9 @@
 ![Failed to load](assets/img/IMG_1867.png)
 
 • Launched a website for SaharaFlavours, boosting brand visibility, customer engagement, and attracting 200+ new customers.
+
 • Added 500+ lines of custom CSS, HTML, and JavaScript to enhance functionality and design, including a WhatsApp chat feature, tailoring the user experience to customer demands.
+
 • Collaborated with stakeholders to gather requirements and deliver tailored solutions, strengthening client relationships and achieving business goals.
 
 
