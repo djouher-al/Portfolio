@@ -15,25 +15,17 @@
 ## Work Experience
 
  **Software Programmer Intern @ Saint-Gobain (BP Canada)** - _Montreal QC, (May- August 2023)_
-- Developed the company’s new intranet website, seamlessly integrating front-end (HTML and CSS) and back-end
-components (PHP, SQL and JavaScript), enabling centralized management of files and resources across
-departments.
-- Played a pivotal role in integrating a new module into the Ross ERP system, optimizing resource utilization and
-reducing operational complexities
-- Demonstrated proficiency in database management by meticulously cleaning and optimizing SQL tables, ensuring
-data accuracy and facilitating seamless interactions for both new and existing clients.
-- Collaborated effectively with cross-functional teams in an Agile environment to gather requirements, design
-solutions, and implement enhancements, fostering a culture of innovation and continuous improvement within the
-organization
+ 
+• Developed a new intranet website, using HTML, CSS, PHP, SQL, and JavaScript, to enhance resource accessibility and communication efficiency across more than five departments.
+• Replaced the marketing department’s website with an integrated Ross ERP module, reducing procurement processing time by 30% and operational overhead by 40%.
+• Utilized SQL queries for data refinement, resulting in a higher accuracy for locating product retailers within Canadian regions.
+• Implemented Agile methodology using Jira for intranet development, achieving 95% satisfaction post-launch.
 
  **Credit Analyst Intern @ Bank of Montreal (BMO)** - _Montreal QC, (May-August 2022)_
 
-- Proficiently identified, analyzed, and interpreted trends or patterns in data sets to assess credit risk and determine
-suitability for extending credit, demonstrating a quick grasp of financial concepts and methodologies.
-- Utilized modeling and analytics techniques to assess the impact of business decisions on credit risk during annual
-reviews, providing valuable insights for strategic decision-making processes.
-- Adapted successfully to the fast-paced environment of the banking industry, demonstrating adaptability, initiative,
-and a strong work ethic, resulting in positive feedback from supervisors and peers alike
+• Analyzed financial statements for 20+ CRM companies to assess credit risk and determine suitability for credit extension.
+• Contributed to a 36% reduction in annual reviews backlog by assisting with data entry, report generation, and financial analysis, thereby enhancing team performance.
+• Adapted successfully to the fast-paced environment of the banking industry, demonstrating adaptability, initiative, and a strong work ethic, resulting in positive feedback from supervisors and peers alike.
   
 ## Projects 
 
@@ -41,12 +33,9 @@ and a strong work ethic, resulting in positive feedback from supervisors and pee
 
 ![Failed to load](assets/img/IMG_1867.png)
 
-- Launched a website for SaharaFlavours, showcasing their products and services effectively, thereby enhancing brand
-visibility and customer engagement within the target market.
--  Demonstrated proficiency in web development and design by implementing custom CSS injections to enhance the
-functionality and aesthetics of specific features, ensuring a seamless and user-friendly experience for customers.
-- Collaborated closely with stakeholders to understand business objectives, gather requirements, and provide tailored
-solutions, fostering a strong client relationship and delivering results that align with the company’s strategic goals
+• Launched a website for SaharaFlavours, boosting brand visibility, customer engagement, and attracting 200+ new customers.
+• Added 500+ lines of custom CSS, HTML, and JavaScript to enhance functionality and design, including a WhatsApp chat feature, tailoring the user experience to customer demands.
+• Collaborated with stakeholders to gather requirements and deliver tailored solutions, strengthening client relationships and achieving business goals.
 
 
 ### Python Guessing Game  
